@@ -3,3 +3,4 @@ astroquery
 spacy
 speechrecognition
 astropy
+pyaudio
