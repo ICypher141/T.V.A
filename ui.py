@@ -4,6 +4,7 @@ from astropy.coordinates import EarthLocation
 import speech_recognition as sr
 import time
 from astropy import units as u
+import sounddevice as sd
 
 # Observer's location
 latitude = 18.5204
